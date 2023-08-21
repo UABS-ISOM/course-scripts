@@ -1,2 +1,2 @@
-# course-scripts
-SQL Server scripts.
+# isom-dba
+Resources to manage database administration for ISOM teaching and research

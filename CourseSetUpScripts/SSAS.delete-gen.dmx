@@ -1,0 +1,1 @@
+SELECT '<Delete xmlns="http://schemas.microsoft.com/analysisservices/2003/engine"><Object>    <DatabaseID>'+[CATALOG_NAME]+'</DatabaseID>  </Object></Delete>' FROM $system.dbschema_catalogs
